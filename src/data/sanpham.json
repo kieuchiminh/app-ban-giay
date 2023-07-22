@@ -1,0 +1,106 @@
+[
+    {
+        "id": 0,
+        "name": "Giày Thể Thao Nam MWC - 5401",
+        "image": "https://img.mwc.com.vn//Upload/2022/11/z3858542825539-71db84ebec6d0c6712277323651f7534.jpg",
+        "price": 295000,
+        "owner": "MWC",
+        "ice": [
+            "Đen",
+            "Xám",
+            "Trắng"
+            
+        ],
+        "size": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "description": "Giày được thiết kế kiểu dáng buộc dây sneaker cực ngầu, phong cách hiện đại..."
+    },
+    {
+        "id": 1,
+        "name": "Giày Chạy Bộ Adidas EQT Bost 2023 LikeAuth",
+        "image": "https://tyhisneaker.com/wp-content/uploads/2023/02/Gia%CC%80y-Cha%CC%A3y-Bo%CC%A3%CC%82-Adidas-EQT-Bost-2023-Do%CC%89-Den-LikeAuth-4-scaled.jpeg",
+        "price": 1100000,
+        "owner": "Adidas",
+        "ice": [
+            "Đỏ-Đen",
+            "Xám-Trắng",
+            "Cam-Trắng"
+        ],
+        "size": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "description": "Giày Chạy Bộ Adidas EQT Bost 2023 Đỏ Đen LikeAuth với thiết kế đẹp, tinh tế & màu sắc vô cùng dễ phối đồ..."
+    },
+    {
+        "id": 2,
+        "name": "Giày Nike Air Force 1 Chanel Chất 2023 Likeauth",
+        "image": "https://tyhisneaker.com/wp-content/uploads/2023/03/giay-nike-air-force-1-chanel-chat-2023-likeauth.jpeg",
+        "price": 870000,
+        "owner": "Nike",
+        "ice": [
+            "Đen",
+            "Xám",
+            "Trắng"
+            
+        ],
+        "size": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "description": "Giày Nike Air Force 1 Chanel là một phiên bản độc đáo và đẳng cấp trong dòng sản phẩm Air Force 1 của Nike. Kết hợp tinh tế giữa thể thao và thời trang cao cấp..."
+    },
+    {
+        "id": 3,
+        "name": "PUMA FUTURE ULTIMATE CAGE TF",
+        "image": "https://pos.nvncdn.net/b0b717-26181/ps/20230719_gCpmzFlnLA.jpeg",
+        "price": 2790000,
+        "owner": "PUMA",
+        "ice": [
+            "Đen",
+            "Xám",
+            "Trắng"
+            
+        ],
+        "size": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "description": "PUMA FUTURE ULTIMATE CAGE TF là mẫu giày dành cho sân cỏ tự nhiên 7-11 người, dòng giày Monarcida nói chung đã được rất nhiều các cầu thủ tin dùng bởi sự bền bỉ đáng kinh ngạc cùng với đó là sự chắc chắn và đặc biệt là rất hợp chân người Việt khi những cầu thủ có bàn chân bè vẫn có thể sử dụng thoải mái. "
+    },
+    {
+        "id": 4,
+        "name": "Mizuno Monarcida Neo II Select AS FG Azure",
+        "image": "https://product.hstatic.net/1000061481/product/anh_sp_add_w735eb_2-01-02-03737-02-02-02-01-02-01-02-01_b2cb5e811e034e7897a6f9f6c3bbf439_1024x1024.jpg",
+        "price": 1550000,
+        "owner": "Mizuno",
+        "ice": [
+            "Xanh lam",
+            "Xám",
+            "Trắng"
+            
+        ],
+        "size": [
+            "39",
+            "40",
+            "41",
+            "42",
+            "43"
+        ],
+        "description": "Mizuno Monarcida Neo II Select AS FG Azure là mẫu giày dành cho sân cỏ tự nhiên 7-11 người, dòng giày Monarcida nói chung đã được rất nhiều các cầu thủ tin dùng bởi sự bền bỉ đáng kinh ngạc cùng với đó là sự chắc chắn và đặc biệt là rất hợp chân người Việt khi những cầu thủ có bàn chân bè vẫn có thể sử dụng thoải mái..."
+    }
+]
